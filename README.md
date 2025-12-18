@@ -332,22 +332,30 @@ event-scheduler/
 │ ├── src/
 │ │ ├── components/ # Reusable components
 │ │ │ ├── Navbar.jsx
+│ │ │ ├── Navbar.css
 │ │ │ ├── EventForm.jsx
+│ │ │ ├── EventForm.css
 │ │ │ ├── EventList.jsx
+│ │ │ ├── EventList.css
 │ │ │ ├── ResourceForm.jsx
+│ │ │ ├── ResourceForm.css
 │ │ │ ├── ResourceList.jsx
+│ │ │ ├── ResourceList.css
 │ │ │ ├── AllocationForm.jsx
+│ │ │ ├── AllocationForm.css
 │ │ │ ├── AllocationList.jsx
+│ │ │ ├── AllocationList.css
 │ │ │ ├── UtilizationReport.jsx
-│ │ │ └── [Component].css
+│ │ │ └── UtilizationReport.css
 │ │ │
 │ │ ├── pages/ # Page components
 │ │ │ ├── Dashboard.jsx
+│ │ │ ├── Dashboard.css
 │ │ │ ├── EventsPage.jsx
+│ │ │ ├── EventsPage.css
 │ │ │ ├── ResourcesPage.jsx
 │ │ │ ├── AllocationsPage.jsx
-│ │ │ ├── ReportsPage.jsx
-│ │ │ └── [Page].css
+│ │ │ └── ReportsPage.jsx
 │ │ │
 │ │ ├── services/ # API service layer
 │ │ │ └── api.js
@@ -356,17 +364,22 @@ event-scheduler/
 │ │ ├── App.css # Global styles
 │ │ └── index.js # Entry point
 │ │
-│ └── package.json
+│ ├── package.json # Node dependencies
+│ └── package-lock.json
 │
 ├── assets/ # Project assets
 │ ├── screenshots/ # Application screenshots
+│ │ ├── dashboard.png
+│ │ ├── events.png
+│ │ ├── resources.png
+│ │ ├── allocations.png
+│ │ └── reports.png
 │ └── demo/ # Demo materials
 │
 ├── README.md # This file
 └── .gitignore # Git ignore rules
 
-text
-
+undefined
 ---
 
 ## 🧠 Conflict Detection Algorithm
