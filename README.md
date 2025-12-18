@@ -82,7 +82,7 @@ This system allows organizations to efficiently manage events and resources with
 
 ## 🎥 Demo Video
 
-**Watch the complete walkthrough:** [View Demo on Google Drive](https://drive.google.com/drive/u/0/folders/1x_bU7HIubY1_nCXjdwF736OX2lcy7Srp)
+**Watch the complete walkthrough:** [View Demo on Google Drive](https://drive.google.com/file/d/1uzsSVtZ9lK9F2CIBUf8jlEM32yx0a7Oj/view?usp=sharing)
 
 The demo covers:
 - Creating resources (rooms, instructors, equipment)
